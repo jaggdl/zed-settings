@@ -30,6 +30,24 @@
       },
       "attribute": {
         "color": "#FD971F"
+      },
+      "punctuation.bracket": {
+        "color": "#66D9EF"
+      },
+      "property": {
+        "color": "#F2B94A"
+      },
+      "keyword": {
+        "color": "#fa5892",
+        "font_weight": 400
+      },
+      "constructor": {
+        "color": "#fa5892",
+        "font_weight": 400
+      },
+      "tag": {
+        "color": "#fa5892",
+        "font_weight": 400
       }
     },
     "players": [
