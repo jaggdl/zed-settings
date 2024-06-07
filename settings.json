@@ -12,53 +12,32 @@
   },
   "format_on_save": "off",
   "base_keymap": "VSCode",
-  "theme": "Monokai Charcoal (gray)",
+  "theme": "Ayu Dark",
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
   "experimental.theme_overrides": {
-    "editor.document_highlight.read_background": "#444",
-    "editor.document_highlight.write_background": "#666",
-    "text.muted": "#AAA",
+    "elevated_surface.background": "#000000",
+    "surface.background": "#000000",
+    "background": "#000000",
+    "element.background": "#000000",
+    "status_bar.background": "#000000",
+    "title_bar.background": "#000000",
+    "toolbar.background": "#000000",
+    "tab_bar.background": "#000000",
+    "tab.inactive_background": "#000000",
+    "tab.active_background": "#000000",
+    "panel.background": "#000000",
+    "scrollbar.track.background": "#000000",
+    "editor.background": "#000000",
+    "editor.gutter.background": "#000000",
     "search.match_background": "#0565e399",
-    "syntax": {
-      "comment": {
-        "color": "#999"
-      },
-      "variable": {
-        "color": "#FD971F"
-      },
-      "variable.special": {
-        "color": "#FD971F"
-      },
-      "attribute": {
-        "color": "#FD971F"
-      },
-      "punctuation.bracket": {
-        "color": "#66D9EF"
-      },
-      "property": {
-        "color": "#F2B94A"
-      },
-      "keyword": {
-        "color": "#fa5892",
-        "font_weight": 400
-      },
-      "constructor": {
-        "color": "#fa5892",
-        "font_weight": 400
-      },
-      "tag": {
-        "color": "#fa5892",
-        "font_weight": 400
-      }
-    },
     "players": [
       {
         "selection": "#0565e388"
       }
     ]
-  },
-  "telemetry": {
-    "diagnostics": false,
-    "metrics": false
   },
   "vim_mode": false,
   "ui_font_size": 14,
